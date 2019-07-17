@@ -1,4 +1,4 @@
-# Angular8-PWA
+# Angular-PWA
 PWA implementation with internet connectivity check and updates check 
 
 
@@ -10,6 +10,6 @@ we have added a feature to catch API response if internet connectivity will be l
 
 We have a feature to show an online and offline status notification when the internet is connected and disconnected.
 
-We have also added a feature to show if new updates for application are available.
+We have also added a feature to show notification if new updates for application are available.
 
  
